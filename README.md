@@ -61,7 +61,7 @@ npm install alkgraph
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/alkgraph.git
+git clone https://github.com/alkimiadev/alkgraph.git
 
 # Navigate to the project directory
 cd alkgraph
